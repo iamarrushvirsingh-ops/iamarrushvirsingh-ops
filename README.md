@@ -39,7 +39,7 @@ Aspiring full time bug bounty hunter . I take each and every challenge on my way
 | Skill | Level |
 |---|---|
 | **OAuth 2.0 & OpenID Connect** | Solid — mechanics, vulnerabilities, and exploitation |
-| **TryHackMe** | Top 25% globally |
+| **TryHackMe** | Top 20% globally |
 | **SQL Injection (SQLi)** | Basic functional knowledge |
 | **LLM Jailbreaking** | Basic hands-on experience |
 
